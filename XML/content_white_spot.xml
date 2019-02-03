@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".WhiteSpot"
+    tools:showIn="@layout/activity_white_spot">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/whitespots"
+        android:contentDescription="@string/white_spots_photo" />
+
+    <TextView
+        android:id="@+id/description_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/description"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/white_spot_syndrome_virus_wssv_is_the_lone_virus_and_type_species_of_the_genus_whispovirus_white_spot_which_is_the_only_genus_in_the_family_nimaviridae_it_is_responsible_for_causing_white_spot_syndrome_in_a_wide_range_of_crustacean_hosts_1_white_spot_syndrome_wss_is_a_viral_infection_of_penaeid_shrimp_the_disease_is_highly_lethal_and_contagious_killing_shrimp_quickly_outbreaks_of_this_disease_have_wiped_out_the_entire_populations_of_many_shrimp_farms_within_a_few_days_in_places_throughout_the_world_the_disease_is_caused_by_a_family_of_related_viruses_subsumed_as_the_whitespot_syndrome_baculovirus_complex_2_and_the_disease_caused_by_them_as_white_spot_syndrome_wss" />
+
+    <TextView
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:id="@+id/diagnosis_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/diagnosis"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/diagnosis_white_spots"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/diagnosis1w" />
+
+    <TextView
+        android:id="@+id/diagnosis2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/diagnosis2w" />
+
+    <TextView
+        android:id="@+id/space2"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:id="@+id/treatment_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Treatment_white_spot"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/treatment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/treatment1w" />
+
+    <TextView
+        android:id="@+id/space3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:id="@+id/prevention_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/prevention_white_spots"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/prevention"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/prevention1w" />
+
+</LinearLayout>
+
+
+
+
+
