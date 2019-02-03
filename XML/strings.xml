@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">shrimpy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_white_spot">White Spot</string>
+    <string name="white_spot_syndrome_virus_wssv_is_the_lone_virus_and_type_species_of_the_genus_whispovirus_white_spot_which_is_the_only_genus_in_the_family_nimaviridae_it_is_responsible_for_causing_white_spot_syndrome_in_a_wide_range_of_crustacean_hosts_1_white_spot_syndrome_wss_is_a_viral_infection_of_penaeid_shrimp_the_disease_is_highly_lethal_and_contagious_killing_shrimp_quickly_outbreaks_of_this_disease_have_wiped_out_the_entire_populations_of_many_shrimp_farms_within_a_few_days_in_places_throughout_the_world_the_disease_is_caused_by_a_family_of_related_viruses_subsumed_as_the_whitespot_syndrome_baculovirus_complex_2_and_the_disease_caused_by_them_as_white_spot_syndrome_wss">White spot syndrome virus (WSSV) is the lone virus (and type species) of the genus Whispovirus (white spot), which is the only genus in the family Nimaviridae. It is responsible for causing white spot syndrome in a wide range of crustacean hosts.[1] White spot syndrome (WSS) is a viral infection of penaeid shrimp. The disease is highly lethal and contagious, killing shrimp quickly. Outbreaks of this disease have wiped out the entire populations of many shrimp farms within a few days, in places throughout the world. The disease is caused by a family of related viruses subsumed as the whitespot syndrome baculovirus complex [2] and the disease caused by them as white spot syndrome (WSS).</string>
+    <string name="title_activity_early_mortality">EarlyMortality</string>
+    <string name="title_activity_healthy">Healthy</string>
+    <string name="disease_not_detected">Disease not detected</string>
+    <string name="early_mortality_syndrome">Early Mortality Syndrome</string>
+    <string name="white_spots">White Spots</string>
+    <string name="description_white_spots">Description:</string>
+    <string name="diagnosis_white_spots">Diagnosis:</string>
+    <string name="description">Description:</string>
+    <string name="description1">Early Mortality Syndrome (EMS) is, according to researchers at the University of Arizona, a disease that is caused by the bacterial agent Vibrio parahaemolyticus, which is transmitted orally and colonises the shrimps gastrointestinal tract. This then produces a toxin that causes tissue destruction and dysfunction of the shrimp digestive organ known as the hepatopancreas.</string>
+    <string name="diagnosis">Diagnosis:</string>
+    <string name="diagnosis1">EMS is characterized by high mortalities, with many cases reaching 100% within the first 30 days. Clinical signs of EMS include erratic swimming or swimming near the bottom of the pond, reduced growth, whitening of the hepatopancreas, reduction in size of hepatopancreas, soft texture of the exoskeleton, dark spots or streaks on the hepatopancreas, and hardening of the hepatopancreas.</string>
+    <string name="treatment">Treatment:</string>
+    <string name="treatment1">No treatments for EMS are available.</string>
+    <string name="prevention">Prevention:</string>
+    <string name="prevention1">EMS-free broodstock are needed. Selective breeding for resistance to EMS involves challenging families and selecting those with best survival as parents for the next generation.</string>
+    <string name="prevention2">Improve farm practices. To eliminate EMS and other pathogens from water, establish a balanced microbial population, stock with healthy postlarvae and closely manage water and bottom quality. Disinfection with chlorine or ozone eliminates multiple pathogens. To create a mature microbial community, probiotics and polyculture can help condition water. Other suggestions are to maintain light to moderate bioflocs, avoid overfeeding and remove sludge regularly.</string>
+    <string name="prevention3">Employ a nursery phase. Nurseries hold young postlarvae until they are larger and more robust, while also confirming they are free of EMS. Ten to 20 days in a nursery raceway, tank or net pen allows important physical and medical evaluations.</string>
+    <string name="prevention4">Improve farm infrastructure with biosecure intensive ponds. Small, deep ponds covered with plastic or bird nets allow more manageable disinfection and feeding, as well as better control of water quality, bioflocs and sludge. Higher yields (30-50 mt/ha) can cover the extra investment. Identify feed additives that reduce the incidence of EMS. These include quorum-sensing inhibitors, essential oils or immunostimulants.</string>
+    <string name="prevention5">Integrated farm management is needed. Fragmented systems do not provide needed controls at each step in the production process. Zone management avoids farm sitings with shared inlet and discharge canals, and consider the carrying capacity of ecosystems. Access to well-equipped local labs provides better detection of EMS.</string>
+    <string name="ems_photo">EMS</string>
+    <string name="white_spots_photo">White spots</string>
+    <string name="diagnosis1w">Infection with WSSV differs from other described penaeid infections yellowhead virus (YHV) and infectious hypodermal and hematopoietic necrosis virus (IHHNV) in the described histological findings, as YHV has a reduced tissue specificity, infecting only the intestinal epithelial tissues and IHHNV causes intranuclear occlusions that stain eosinophilic, but do not change over the course of the infection.</string>
+    <string name="diagnosis2w">Rapid and specific diagnosis of the virus can be accomplished using nested or quantitative PCR.</string>
+    <string name="Treatment_white_spot">Treatment:</string>
+    <string name="treatment1w">No treatments for White Spot Syndrome are available.</string>
+    <string name="prevention_white_spots">Prevention:</string>
+    <string name="prevention1w">A large number of disinfectants are widely used in shrimp farms and hatcheries to prevent an outbreak. Stocking of uninfected shrimp seeds and rearing them away from environmental stressors with extreme care to prevent contamination are useful management measures. Site selection may be one of the most crucial in preventing WSS. Shrimp farmed in areas with relatively low temperature fluctuations and at water temperatures greater than 29°C had increased resistance to WSSV.</string>
+</resources>
