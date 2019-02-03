@@ -6,3 +6,7 @@ create an android app capable of visually recognizing
 what disease a shrimp had and would offer tips for preventing
 that disease from spreading along with info about 
 that disease
+
+
+
+https://cloud.google.com/vision/automl/docs/client-libraries
